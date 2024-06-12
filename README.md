@@ -1,0 +1,1 @@
+This repository contains a Sentiment Analysis Chatbot built using Hugging Face's Transformers library. The chatbot is designed to interact with users and analyze the sentiment of their messages, providing feedback on whether the sentiment is positive, negative, or neutral.
